@@ -1,20 +1,12 @@
-<template>
-  <div id="app">
-    <p>{{ message }}</p>
-  </div>
+<template lang="pug">
+  router-view
 </template>
 
 <script>
-export default {
-  data () {
-    return {
-      message: "Hello Vue!"
-    }
-  }
-}
+export default {}
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 p {
   font-size: 2em;
   text-align: center;
