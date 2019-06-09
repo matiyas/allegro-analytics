@@ -1,14 +1,17 @@
 {
-  "application.js": "/packs/js/application-b44dd60205aa938b72d0.js",
-  "application.js.map": "/packs/js/application-b44dd60205aa938b72d0.js.map",
+  "application.js": "/packs/js/application-4f529e08f56ec656bd1d.js",
+  "application.js.map": "/packs/js/application-4f529e08f56ec656bd1d.js.map",
   "entrypoints": {
     "application": {
       "js": [
-        "/packs/js/application-b44dd60205aa938b72d0.js"
+        "/packs/js/application-4f529e08f56ec656bd1d.js"
       ],
       "js.map": [
-        "/packs/js/application-b44dd60205aa938b72d0.js.map"
+        "/packs/js/application-4f529e08f56ec656bd1d.js.map"
       ]
     }
-  }
+  },
+  "media/allegro-analytics/assets/fonts/Roboto-Bold.ttf": "/packs/media/allegro-analytics/assets/fonts/Roboto-Bold-7c18188784f21915f42a5b3bc9d91e20.ttf",
+  "media/allegro-analytics/assets/fonts/Roboto-Medium.ttf": "/packs/media/allegro-analytics/assets/fonts/Roboto-Medium-d52f011be65b281ba8ca1c3f689cf133.ttf",
+  "media/allegro-analytics/assets/fonts/Roboto-Regular.ttf": "/packs/media/allegro-analytics/assets/fonts/Roboto-Regular-18d44f79b3979ec168862093208c6d7d.ttf"
 }
