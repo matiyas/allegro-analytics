@@ -6,7 +6,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.6",
     "@rails/webpacker": "^4.0.6",
     "node-sass": "^4.12.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
